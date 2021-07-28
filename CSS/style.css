@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    height: 100px;
+    width: 100%;
+    background-color: blueviolet;
+    text-align: center;
+}
+.link-section{
+    background-color: burlywood;
+    height: 100px;
+    width: 100%;
+    overflow: hidden;
+    text-align: center;
+}
+
+.link-one{
+height: 100%;
+width: 25%;
+background-color: chartreuse;
+float: left;
+}
+
+.link-two{
+    height: 100%;
+width: 25%;
+background-color: crimson;
+float: left;
+}
+
+.link-three{
+    height: 100%;
+width: 25%;
+background-color: darkcyan;
+float: left;
+}
+
+.link-four{
+    height: 100%;
+width: 25%;
+background-color: darkgreen;
+float: left;
+}
+
+.middle-section{
+overflow: hidden;
+}
+
+.left{
+height: 500px;
+width: 20%;
+background-color: darkorchid;
+float: left;
+text-align: center;
+}
+
+.right{
+    height: 500px;
+    width: 80%;
+    background-color: deeppink;
+float: left;
+text-align: center;
+}
+
+.video{
+height: 250px;
+width: 100%;
+background-color: fuchsia;
+}
+
+.chapter{
+    height: 250px;
+    width: 100%;
+    background-color: lightcoral;
+
+}
+
+.image{
+height: 350px;
+width: 100%;
+background-color: lightslategray;
+}
+
+.audio{
+height: 150px;
+width: 100%;
+background-color: rgb(8, 44, 8);
+}
+
+footer{
+    height: 200px;
+    width: 100%;
+    text-align: center;
+    background-color: mediumspringgreen;
+}
